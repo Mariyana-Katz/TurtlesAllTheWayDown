@@ -6,10 +6,10 @@ package PACKAGE_NAME;
 public class Turtles {
     public static void main(String[] args){
 
-        Instant start = Instant.now();
-
-        Instant finish = Instant.now();
-        long timeElapsed = Duration.between(start, finish).toMillis();
+//        Instant start = Instant.now();
+//
+//        Instant finish = Instant.now();
+//        long timeElapsed = Duration.between(start, finish).toMillis();
 
     }
 
